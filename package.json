@@ -9,9 +9,6 @@
   ],
   "typings": "index.d.ts",
   "repository": "https://github.com/venkatesh1146/react-animated-numbers",
-   "publishConfig": {
-    "@wealthy:registry": "https://npm.pkg.github.com"
-  },
   "author": "Venkatesh <venkatesh@wealthy.in>",
  "license": "MIT",
   "private": false,
