@@ -1,5 +1,5 @@
 name: Node.js Package
-run-name: ${{ github.actor }} is learning GitHub Actions
+run-name: ${{ github.actor }} is releasing new version
 
 on:
   release:
