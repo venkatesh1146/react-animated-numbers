@@ -8,10 +8,9 @@
     "index.d.ts"
   ],
   "typings": "index.d.ts",
-  "repository": "https://github.com/heyman333/react-animated-numbers.git",
-  "author": "youngsoohan <amazingmobdev@gmail.com>",
-  "homepage": "https://optimistic-noyce-cf2473.netlify.app/",
-  "license": "MIT",
+  "repository": "https://github.com/venkatesh1146/react-animated-numbers",
+  "author": "Venkatesh <venkatesh@wealthy.in>",
+ "license": "MIT",
   "private": false,
   "keywords": [
     "react",
@@ -34,7 +33,7 @@
     "build": "webpack"
   },
   "bugs": {
-    "url": "https://github.com/heyman333/react-animated-numbers/issues"
+    "url": "https://github.com/venkatesh1146/react-animated-numbers/issues"
   },
   "dependencies": {
     "react-intersection-observer": "^8.33.1",
