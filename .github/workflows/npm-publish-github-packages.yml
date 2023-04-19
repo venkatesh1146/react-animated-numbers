@@ -41,11 +41,12 @@ jobs:
           - uses: actions/setup-node@v3
             with:
               node-version: 16
+          - run: echo "token $NPM_AUTH_TOKEN"
           - run: npm i
           - run: npm run build
           - run: npm publish --access=public
             env:
-              NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
+              NPM_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
 
   # publish-gpr:
   #   needs: build
