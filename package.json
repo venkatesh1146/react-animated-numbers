@@ -1,5 +1,5 @@
 {
-  "name": "@venkyp/react-animated-numbers",
+  "name": "@venkatesh1146/react-animated-numbers",
   "version": "0.16.1",
   "description": "Library showing animation of number changes in react.js",
   "main": "./dist/index.js",
